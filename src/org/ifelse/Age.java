@@ -17,7 +17,7 @@ package org.ifelse;
 				System.out.println("you're not eligible for vote");
 			}
 			System.out.println("vajib");
+			System.out.println("abi");
 			
-		}
-
+	
 }
